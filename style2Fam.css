@@ -1,0 +1,79 @@
+@import url('https://fonts.googleapis.com/css2?family=Architects+Daughter&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Coda+Caption:wght@800&display=swap');
+
+body,html{
+    height: 280%;
+}
+body{
+    background-image: url(img/backgroundwood.jpg );
+    background-position: center;
+    background-repeat: repeat;
+    background-size: cover;
+    margin: 0;
+    padding: 0;
+    
+}
+h3{
+    font-family: Architects Daughter;
+    font-size: 70px;
+    text-align: center;
+    position: absolute;
+    right: 50px;
+    left: 100px;
+    
+}
+.boxFamily{
+    position: absolute;
+    left: 0px;
+    bottom: 75px;
+    background-color: slateblue;
+    height: 350px;
+    width: 250px;
+}
+p{  
+    font-family: Coda Caption;
+    text-align: center;
+        
+    
+}
+.imgfamily{
+    padding-top: 200px;
+    text-align: center;
+    
+}
+.fatherachimg{
+    text-align: center;
+    padding-top: 250px;
+}
+table{
+    margin-top: 80px;
+    position: absolute;
+    right: 250px;
+    width: 1300px;
+    padding-left: 100px;
+
+}
+th{
+    text-align: left;
+}
+table, th, td {
+    border: 3px solid #000;
+    border-collapse: collapse;
+
+}
+th, td{
+    padding: 10px;
+}
+caption{
+    font-size: 45px;
+    font-family: Architects Daughter;
+    padding-top: 50px;
+}
+td{
+    font-size: 20px;
+    font-family: Architects Daughter;
+    text-align: center;
+}
+th{
+    text-align: center;
+}

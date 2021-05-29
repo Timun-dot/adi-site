@@ -1,0 +1,82 @@
+@import url('https://fonts.googleapis.com/css2?family=Architects+Daughter&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Coda+Caption:wght@800&display=swap');
+
+body,html{
+    height: 200%;
+}
+body{
+    background-image: url(img/backgroundwood.jpg );
+    background-position: center;
+    background-repeat: repeat;
+    background-size: cover;
+    margin: 0;
+    padding: 0;
+    
+}
+.locationstudy{
+    padding-left: 450px;
+    padding-bottom: 95px;
+}
+h2{
+    font-family: Architects Daughter;
+    text-align: center;
+}
+p{
+    font-family: Coda Caption;
+    text-align: justify;
+}
+.containerbox{
+    background-color: chartreuse ;
+    width: 450px;
+    height:600px;
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: 30px;
+    padding-right: 30px;
+}
+table{
+    margin-top: 80px;
+    position: absolute;
+    right: 250px;
+    width: 1300px;
+    padding-left: 200px;
+
+}
+th{
+    text-align: left;
+}
+table, th, td {
+    border: 3px solid #000;
+    border-collapse: collapse;
+
+}
+th, td{
+    padding: 10px;
+}
+caption{
+    font-size: 45px;
+    font-family: Architects Daughter;
+    padding-top: 50px;
+}
+td{
+    font-size: 20px;
+    font-family: Architects Daughter;
+    text-align: center;
+}
+th{
+    text-align: center;
+}
+.descstudy{
+    text-align: center;
+    padding-left: 30px;
+    padding-right: 30px;
+}
+.timetable{
+    position: absolute;
+    top: 1900px;
+    right: 250px;
+    width: 1300px;
+    padding-left: 200px;
+}
+
+

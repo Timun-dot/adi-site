@@ -1,0 +1,122 @@
+@import url('https://fonts.googleapis.com/css2?family=Architects+Daughter&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Coda+Caption:wght@800&display=swap');
+
+body,html{
+    height: 100%;
+}
+body{
+    background-image: url(img/backgroundwood.jpg );
+    background-position: center;
+    background-repeat: repeat;
+    background-size: cover;
+    margin: 0;
+    padding: 0;
+    
+}
+
+.socmed{
+    bottom: 80px;
+    height: 50px;
+    width: 50px;
+}
+h3{
+    right: 0px;
+    text-align: bottom;
+    font-family: Architects Daughter;
+    font-size: 20px;
+}
+p{
+    color: slateblue;
+}
+.aboutme{
+    text-align: center;
+    padding-top: 70px;
+}
+header{
+    color: teal;
+}
+.mypic{
+    align-items: center;
+
+}
+.boxsocmed{
+    position: absolute;
+    bottom: 0px;
+    background-color: dimgray;
+    height: 310px;
+    width: 200px;
+}
+header{
+    padding-top: 5px;
+    font-size: 30px;
+    color: black;
+    font-family: Architects Daughter;
+}
+p{
+    color: black;
+    font-family:Coda Caption ;
+    
+}
+h2{
+    font-family: Architects Daughter;
+    text-align: center;
+}
+    
+.mylocation{
+    padding-left: 450px;
+}
+.contentbox{
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+}
+.container{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}    
+
+.container .box{
+    position: relative;
+    width: 250px;
+    padding: 40px;
+    background: #fff;
+    box-shadow: 0 5px 15px rgba(0,0,0.1);
+    border-radius: 4px;
+    margin: 20px;
+    box-sizing: border-box;
+    overflow: hidden;
+}
+.container.box .icon{
+    position: relative;
+    width: 80px;
+    height: 80px;
+    color: #fff;
+    background: #000;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0 auto;
+    font-size: 40px;
+    font-weight: 700;
+    
+
+}
+.containerbiodata{
+    background-color: chartreuse ;
+    width: 500px;
+    height:490px;
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: 30px;
+    padding-right: 30px;
+}
+
+
+
+
+
+

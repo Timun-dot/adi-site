@@ -1,0 +1,143 @@
+@import url('https://fonts.googleapis.com/css2?family=Architects+Daughter&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Coda+Caption:wght@800&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Mono:wght@100&display=swap');
+
+
+body,html{
+    height: 305%;
+}
+body{
+    background-image: url(img/backgroundwood.jpg );
+    background-position: center;
+    background-repeat: repeat;
+    background-size: cover;
+    margin: 0;
+    padding: 0;
+    
+}
+h2{
+    padding-top: 40px;
+    font-family: Architects Daughter;
+    text-align: center;
+    
+}
+p{
+    font-family: Coda Caption;
+    text-align: center;
+    
+}
+.containerbox{
+    background-color: chartreuse ;
+    width: 450px;
+    height:400px;
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: 30px;
+    padding-right: 30px;
+}
+h3{
+    padding-top: 30px;
+    font-family: Coda Caption;
+    text-align: center;
+}
+.vidpubg{
+    text-align: center;
+}
+.detailspubg{
+    text-align: center;
+    font-family: Roboto Mono;
+    font-size: 25px;
+}
+.pubgicon{
+    text-align: center;
+    padding-bottom: 40px;
+}
+.pubgcertimg{
+    padding-top: 20px;
+    text-align: center;
+}
+.pubgcertdet{
+    text-align: center;
+    padding-bottom: 20px;
+    
+}
+.containercertpubg{
+    background-color: chartreuse ;
+    width: 850px;
+    height:800px;
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: 30px;
+    padding-right: 30px;
+
+}
+.pubgcertimg2{
+    text-align: center;
+    padding-top: 10px;
+}
+.vidML{
+    text-align: center;
+
+}
+.savageML{
+    text-align: center;
+}
+.savagedetails{
+    text-align: center;
+}
+.pubgbestrecorded{
+    text-align: center;
+    padding-top: 5px;
+    padding-bottom: 60px;
+}
+.bestrecordeddetails{
+    text-align: center;
+    padding-left: 30px;
+ }
+.containertext{
+    background-color: chartreuse;
+    height: 50px;
+    width: 1400px;
+    text-align: center;
+}
+.containertextforML{
+    background-color: chartreuse;
+    height: 50px;
+    width: 700px;
+    text-align: center;
+    margin-left: 360px;
+    margin-bottom: 100px;
+}
+table{
+    margin-top: 80px;
+    position: absolute;
+    right: 250px;
+    width: 1300px;
+    padding-left: 200px;
+
+}
+th{
+    text-align: left;
+}
+table, th, td {
+    border: 3px solid #000;
+    border-collapse: collapse;
+
+}
+th, td{
+    padding: 10px;
+}
+caption{
+    font-size: 45px;
+    font-family: Architects Daughter;
+}
+td{
+    font-size: 18px;
+    font-family: Architects Daughter;
+    text-align: justify;
+}
+th{
+    text-align: center;
+}
+
+
